@@ -1,0 +1,87 @@
+{
+  "projects": [
+    {
+      "id": "6e76",
+      "name": "claiton2234",
+      "budget": "76099",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 1700,
+      "services": [
+        {
+          "name": "Contratar Dev PHP",
+          "cost": "500",
+          "description": "Vai criar a função de envio de e-mails",
+          "id": "2c6f3bae-e453-4385-b579-922f7b117782"
+        },
+        {
+          "name": "Contratar Dev PHP",
+          "cost": "500",
+          "description": "Vai criar a função de envio de e-mails",
+          "id": "2c6f3bae-e453-4385-b579-922f7b117782"
+        },
+        {
+          "name": "oi",
+          "cost": "200",
+          "description": "faça isso",
+          "id": "b53fea4e-60e7-44a0-9d45-52025e116d38"
+        },
+        {
+          "name": "oi",
+          "cost": "200",
+          "description": "faça isso",
+          "id": "b53fea4e-60e7-44a0-9d45-52025e116d38"
+        },
+        {
+          "name": "oi",
+          "cost": "200",
+          "description": "faça isso",
+          "id": "b53fea4e-60e7-44a0-9d45-52025e116d38"
+        },
+        {
+          "name": "oi",
+          "cost": "200",
+          "description": "faça isso",
+          "id": "b53fea4e-60e7-44a0-9d45-52025e116d38"
+        },
+        {
+          "name": "oi",
+          "cost": "200",
+          "description": "faça isso",
+          "id": "b53fea4e-60e7-44a0-9d45-52025e116d38"
+        }
+      ]
+    },
+    {
+      "id": "32ae",
+      "name": "asd",
+      "budget": "567",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
